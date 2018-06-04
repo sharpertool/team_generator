@@ -1,0 +1,70 @@
+{
+  "men": [
+    {
+      "name": "Ed",
+      "ntrp": 3.7
+    },
+    {
+      "name": "Jake",
+      "ntrp": 4.1
+    },
+    {
+      "name": "Rod",
+      "ntrp": 4.0
+    },
+    {
+      "name": "Steve",
+      "ntrp": 4.1
+    },
+    {
+      "name": "Mark",
+      "ntrp": 4.5
+    },
+    {
+      "name": "Jeff",
+      "ntrp": 4.5
+    },
+    {
+      "name": "Fred",
+      "ntrp": 3.8
+    },
+    {
+      "name": "Willie",
+      "ntrp": 4.0
+    }
+  ],
+  "women": [
+    {
+      "name": "Vicki",
+      "ntrp": 3.8
+    },
+    {
+      "name": "Dawn",
+      "ntrp": 3.0
+    },
+    {
+      "name": "Sonja",
+      "ntrp": 3.5
+    },
+    {
+      "name": "Rita",
+      "ntrp": 4.0
+    },
+    {
+      "name": "Marylyn",
+      "ntrp": 3.8
+    },
+    {
+      "name": "Jessie",
+      "ntrp": 3.2
+    },
+    {
+      "name": "Lilly",
+      "ntrp": 4.0
+    },
+    {
+      "name": "Karen",
+      "ntrp": 4.2
+    }
+  ]
+}
